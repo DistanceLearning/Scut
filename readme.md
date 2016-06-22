@@ -1,4 +1,4 @@
-# README
+# Практика с ипользованием Unity группа ПКс-31
 
 [![Build Status](http://scutgame.com/images/passing.png?branch=6.7.9.11)](http://scutgame.com/download/)
 
